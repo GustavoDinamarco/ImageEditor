@@ -18,7 +18,7 @@ Este projeto é um editor de imagens simples feito em Python utilizando Tkinter 
 
 1. **Instale as dependências:**
    ```sh
-   pip install pillow numpy
+   pip install pillow numpy Tkinter
    ```
 
 2. **Execute o programa:**
